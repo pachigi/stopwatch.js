@@ -1,2 +1,3 @@
 stopwatch.js
 ============
+Edit PatchigiA
